@@ -1,0 +1,5 @@
+{
+    "validEmail" : "John Doe",
+    "validPassword" : "ThisIsNotAPassword",
+    "invalidPassword" : "iniadalahpassword"
+}
